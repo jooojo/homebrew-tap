@@ -1,6 +1,6 @@
 cask "annoyo" do
-  version "0.1.0"
-  sha256 "b8ab5565f044576f06be3d5304c5505bd0a8d03884aa454cb9972731378d8831"
+  version "0.1.1"
+  sha256 "b43bd505be0bf5f7ac9c86e037a287b9b3d165c8fec7656836184170606a4131"
 
   url "https://github.com/jooojo/sir-annoy-o/releases/download/v#{version}/AnnoyO-v#{version}-macOS.zip"
   name "AnnoyO"
